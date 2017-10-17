@@ -14,6 +14,6 @@
     <project name="meta-ros" path="poky/meta-ros" remote="bmwcarit" revision="fdb1b4df3b242b4827e50be256bd36f08ad37396" upstream="refs/heads/master"/>
   <project name="meta-ti" path="poky/meta-ti" remote="yocto" revision="1b5a2e7bb36b904f0e9aa0d60e56457cbb0e5179" upstream="refs/heads/master"/>
   <!-- mauvaise revision, cause un probleme de wifi<project name="poky" remote="yocto" revision="137f52ac3a3cf6dc9eed27178c37e9ce235341d8" upstream="refs/heads/dizzy"/>-->
-  <project name="poky" remote="yocto" revision="e6e7c28fb716f1636f707130b89323fe5e8cc5ce" upstream="refs/heads/dizzy"/>
+  <project name="poky" remote="yocto" revision="00fce45b5541df2448fee9386f1f12008b775673" upstream="refs/heads/dizzy"/>
 
 </manifest>
